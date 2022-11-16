@@ -36,10 +36,7 @@
 [<img align="left" alt="Unix" width="50px" src="https://raw.githubusercontent.com/KUMAR-REDDY-BAVANASI/KUMAR-REDDY-BAVANASI/master/Tools_icons/nexus.png" />]
 [<img align="left" alt="Unix" width="50px" src="https://raw.githubusercontent.com/KUMAR-REDDY-BAVANASI/KUMAR-REDDY-BAVANASI/master/Tools_icons/prometheus.png" />]
 [<img align="left" alt="Unix" width="50px" src="https://raw.githubusercontent.com/KUMAR-REDDY-BAVANASI/KUMAR-REDDY-BAVANASI/master/Tools_icons/teraform.png" />]
-
-
 <br />
 <br />
-
 [instagram]: https://www.instagram.com/kumar_reddy_bavanasi/
 [linkedin]: https://www.linkedin.com/in/kumar-reddy-bavanasi-272958226/
