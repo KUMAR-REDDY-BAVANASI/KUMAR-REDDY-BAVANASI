@@ -14,11 +14,11 @@
 
 ### Languages and Tools:
 
-Linux, AWS, Jenkins, Maven, Tomcat, 
+# Linux, AWS, Jenkins, Maven, Tomcat, 
 
-Docker, Kubernetes, Helm, Python, Shell Scripting, 
+# Docker, Kubernetes, Helm, Python, Shell Scripting, 
 
-Prometheus, Grafana, AZURE, GCP, Terraform, Terragrunt, Ansible
+# Prometheus, Grafana, AZURE, GCP, Terraform, Terragrunt, Ansible
 
 
 <br />
