@@ -29,8 +29,8 @@
 [<img align="left" alt="Unix" width="50px" src="https://raw.githubusercontent.com/KUMAR-REDDY-BAVANASI/KUMAR-REDDY-BAVANASI/master/Tools_icons/gcp.png" />]
 [<img align="left" alt="Unix" width="50px" src="https://raw.githubusercontent.com/KUMAR-REDDY-BAVANASI/KUMAR-REDDY-BAVANASI/master/Tools_icons/azure.jpg" />]
 [<img align="left" alt="Unix" width="50px" src="https://raw.githubusercontent.com/KUMAR-REDDY-BAVANASI/KUMAR-REDDY-BAVANASI/master/Tools_icons/docker.png" />]
-[<img align="left" alt="Unix" width="50px" src="https://raw.githubusercontent.com/KUMAR-REDDY-BAVANASI/KUMAR-REDDY-BAVANASI/master/Tools_icons/grafana.png" />] -->
-<img align="left" alt="Unix" width="50px" src="https://raw.githubusercontent.com/KUMAR-REDDY-BAVANASI/KUMAR-REDDY-BAVANASI/master/Tools_icons/helm.png" />]
+[<img align="left" alt="Unix" width="50px" src="https://raw.githubusercontent.com/KUMAR-REDDY-BAVANASI/KUMAR-REDDY-BAVANASI/master/Tools_icons/grafana.png" />]
+[<img align="left" alt="Unix" width="50px" src="https://raw.githubusercontent.com/KUMAR-REDDY-BAVANASI/KUMAR-REDDY-BAVANASI/master/Tools_icons/helm.png" />]
 [<img align="left" alt="Unix" width="50px" src="https://raw.githubusercontent.com/KUMAR-REDDY-BAVANASI/KUMAR-REDDY-BAVANASI/master/Tools_icons/python.jpg" />]
 [<img align="left" alt="Unix" width="50px" src="https://raw.githubusercontent.com/KUMAR-REDDY-BAVANASI/KUMAR-REDDY-BAVANASI/master/Tools_icons/kubernetes.png" />]
 [<img align="left" alt="Unix" width="50px" src="https://raw.githubusercontent.com/KUMAR-REDDY-BAVANASI/KUMAR-REDDY-BAVANASI/master/Tools_icons/nexus.png" />]
