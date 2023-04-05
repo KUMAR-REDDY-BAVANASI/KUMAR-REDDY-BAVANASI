@@ -14,19 +14,11 @@
 
 ### Languages and Tools:
 
-Linux, Shell Scripting, AWS,
+- 👩‍💻Languages & Runtimes: Python, Shell Scripting, HCL, YAML 
+- ☁ Cloud Technologies: AWS, Microsoft Azure, GCP
+- 🏚 Infrastructure Tools: Terraform, Terragrunt and Ansible
+- 🕵️‍♀️ Other Tools: Linux, Jenkins, Maven, Tomcat, Git and Git Hub, Jira, Github Actions, Docker, Kubernetes, Helm
 
-Jenkins, Maven, Tomcat,
-
-Docker, Kubernetes, Helm, Python, Ansible
-
-Prometheus, Grafana, AZURE, 
-
-GCP, Terraform, Terragrunt, Github Actions
-
-
-<br />
-<br />
 
 
 [instagram]: https://www.instagram.com/kumar_reddy_bavanasi/
