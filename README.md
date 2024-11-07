@@ -17,7 +17,7 @@
 - 👩‍💻Languages & Runtimes: Python, Shell Scripting, HCL, YAML 
 - ☁ Cloud Technologies: AWS, Microsoft Azure, GCP
 - 🏚 Infrastructure Tools: Terraform, Terragrunt and Ansible
-- 🕵️‍♀️ DevOps Tools: Linux, Jenkins, Maven, Tomcat, Git and GitHub, Jira, Confluence, Github Actions, Docker, Kubernetes, Helm Charts, ArgoCD, Snyk, Azure Data Factory
+- 🕵️‍♀️ DevOps Tools: Linux, Jenkins, Maven, Tomcat, Git and GitHub, Jira, Confluence, Github Actions, Docker, Kubernetes, Helm Charts, ArgoCD, Snyk, Azure Data Factory, MongoDB, MSSQL, PSQL
 
 
 
