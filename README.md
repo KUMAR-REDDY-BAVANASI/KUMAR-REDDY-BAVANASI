@@ -1,7 +1,7 @@
 ## Hi there, I'm Kumar Reddy Bavanasi 👋
 
-### I'm a Senior Devops engineer
-- 🔭 I’m currently working on a Creating Devops related tech resources 
+### I'm a Senior Python DevOps engineer
+- 🔭 I’m currently working on creating Python + DevOps-related tech resources 
 - 🌱 I’m currently exploring more tools 🤣
 - ⚡ Fun fact: I love to walk 🏃
 
@@ -14,10 +14,10 @@
 
 ### Languages and Tools:
 
-- 👩‍💻Languages & Runtimes: Python, Shell Scripting, HCL, YAML 
+- 👩‍💻Languages & Runtimes: Python, Shell Scripting, HCL, YAML, Json
 - ☁ Cloud Technologies: AWS, Microsoft Azure, GCP
-- 🏚 Infrastructure Tools: Terraform, Terragrunt and Ansible
-- 🕵️‍♀️ DevOps Tools: Linux, Jenkins, Maven, Tomcat, Git and GitHub, Jira, Confluence, Github Actions, Docker, Kubernetes, Helm Charts, ArgoCD, Snyk, Azure Data Factory, MongoDB, MSSQL, PSQL
+- 🏚 Infrastructure Tools: Terraform, Terragrunt, and Ansible
+- 🕵️‍♀️ DevOps Tools: Linux, Jenkins, Azure DevOps, Maven, Tomcat, Git and GitHub, Jira, Confluence, Github Actions, Docker, Kubernetes, Helm Charts, ArgoCD, Snyk, Azure Data Factory, MongoDB, MSSQL, PSQL, Azure OpenAI
 
 
 
